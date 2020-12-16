@@ -1,5 +1,5 @@
 ## Deploy Here!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/snapxone/YoutubeDL-Material/tree/master)
 
 YoutubeDL-Material
 
